@@ -1,5 +1,5 @@
 # Easy Object Pool for Unity
-EOP it's an easy way to make an object pool that has multiple objects all in the same code.
+EOP it's a **Unity** package to have an easy way to make an object pool that has multiple objects all in the same code.
 
 This is mostly for personal use so use caution.
 

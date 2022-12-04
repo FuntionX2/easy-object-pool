@@ -1,0 +1,14 @@
+{
+  "name": "com.witchdev.easy-object-pool",
+  "version": "1.0.0",
+  "displayName": "Easy Object Pool",
+  "description": "An easy object pool that supports multiple objects in the same list",
+  "unity": "2019.1",
+  "keywords": [
+    "object-pool"
+  ],
+  "author": {
+    "name": "Witch Dev",
+    "email": "thewitch@witchdev.com"
+  }
+}

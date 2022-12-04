@@ -11,7 +11,7 @@
     {
       "displayName": "Easy object pool manager",
       "description": "Contains the gameobject to be used in the hirarchy",
-      "path": "Samples~/EasyObectPoolManager"
+      "path": "Samples~/EasyObjectPoolManager"
     }
   ],
   "author": {

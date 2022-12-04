@@ -2,7 +2,7 @@
 EOP it's an easy way to make an object pool that has multiple objects all in the same code
 ## Usage
 
-Just drag the EOP object to the hirarchy (Or drag the code to one of your gameobjects) and then add the data of your object.
+Just drag the EOP object to the hierarchy (Or drag the code to one of your gameobjects) and then add the data of your object.
 
 **ID** is an int and it's used by EOP to search the desired game object.
 

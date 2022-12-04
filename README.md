@@ -1,4 +1,4 @@
-# Easy Object Pool
+# Easy Object Pool for Unity
 EOP it's an easy way to make an object pool that has multiple objects all in the same code.
 
 This is mostly for personal use so use caution.

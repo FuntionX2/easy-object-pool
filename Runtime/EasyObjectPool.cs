@@ -62,7 +62,7 @@ public class EasyObjectPool : MonoBehaviour
             }
         }
     }
-    public void disableBullets(int id)
+    public void disableObjects(int id)
     {
         counter[id]=0;
         int tmp = 0;
@@ -83,7 +83,7 @@ public class EasyObjectPool : MonoBehaviour
             }
         }
     }
-    public void disableAllBullets()
+    public void disableAllObjects()
     {
         for (int id = 0; id < objectLibrary.Count; id++)
         {

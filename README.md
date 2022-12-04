@@ -51,7 +51,7 @@ You can deactivate all the objects of the same id by using:
 
 ```sh
 
- EasyObjectPool.SharedInstance.disableBullets(id);
+ EasyObjectPool.SharedInstance.disableObjects(id);
 
 ```
 
@@ -63,7 +63,7 @@ You can deactivate all the objects by using:
 
 ```sh
 
- EasyObjectPool.SharedInstance.disableAllBullets();
+ EasyObjectPool.SharedInstance.disableAllObjects();
 
 ```
 ### Contact Me

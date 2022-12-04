@@ -7,6 +7,13 @@
   "keywords": [
     "object-pool"
   ],
+  "samples":[
+    {
+      "displayName": "Easy object pool manager",
+      "description": "Contains the gameobject to be used in the hirarchy",
+      "path": "Samples~/EasyObectPoolManager"
+    }
+  ],
   "author": {
     "name": "Witch Dev",
     "email": "thewitch@witchdev.com"

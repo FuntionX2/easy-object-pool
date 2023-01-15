@@ -33,7 +33,7 @@ public class EasyObjectPool : MonoBehaviour
             counter[i] = 0;
         }
     }
-    public GameObject GetPooledBullet(int id)
+    public GameObject GetPooledObject(int id)
     {
         if(counter[id]== counterObjects[id].Length-1)
         {
